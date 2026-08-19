@@ -1,0 +1,2 @@
+# getting-started-with-the-blazor-smart-rich-text-editor
+A quick-start project that demonstrates how to get started with the Syncfusion Blazor Smart Rich Text Editor in a Blazor Web App. This project includes examples of installing and configuring the Smart Rich Text Editor, registering the Syncfusion Blazor service, configuring Azure OpenAI, and integrating the editor with AI-powered content assistance.
