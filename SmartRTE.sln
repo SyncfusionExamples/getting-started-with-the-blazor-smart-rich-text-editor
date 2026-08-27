@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRTE", "SmartRTE\SmartRTE\SmartRTE.csproj", "{163EB0A0-5858-4D4A-BCF3-081266660EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRTE.Client", "SmartRTE\SmartRTE.Client\SmartRTE.Client.csproj", "{E381BB61-9509-4739-8CC7-88F858409D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163EB0A0-5858-4D4A-BCF3-081266660EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163EB0A0-5858-4D4A-BCF3-081266660EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163EB0A0-5858-4D4A-BCF3-081266660EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163EB0A0-5858-4D4A-BCF3-081266660EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E381BB61-9509-4739-8CC7-88F858409D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E381BB61-9509-4739-8CC7-88F858409D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E381BB61-9509-4739-8CC7-88F858409D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E381BB61-9509-4739-8CC7-88F858409D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7E8FB8-761A-43A9-A592-2E5270AF7481}
+	EndGlobalSection
+EndGlobal
